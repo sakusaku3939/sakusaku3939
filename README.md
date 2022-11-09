@@ -1,2 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakusaku3939&theme=slateorange&layout=compact&count_private=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakusaku3939&theme=slateorange&show_icons=true&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakusaku3939&theme=nord_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakusaku3939&theme=nord_dark" width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakusaku3939&theme=nord_dark" width="50%">
