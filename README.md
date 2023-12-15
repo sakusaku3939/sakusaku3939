@@ -1,4 +1,3 @@
-## Hi there 👋
 https://sakusaku3939.com/
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakusaku3939&theme=nord_dark)
