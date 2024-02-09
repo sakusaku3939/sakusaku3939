@@ -1,4 +1,4 @@
 https://sakusaku3939.com/
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakusaku3939&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakusaku3939&theme=nord_dark)
+[![](https://raw.githubusercontent.com/sakusaku3939/sakusaku3939/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sakusaku3939/sakusaku3939/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
